@@ -42,9 +42,6 @@ h2 {
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   transition: transform 0.3s;
-  flex: 1 1 calc(50% - 10px); /* Faz as imagens ocuparem metade do espaço, subtraindo o gap */
-  margin-bottom: 10px; /* Opcional: adiciona um espaço entre as linhas */
-  max-width: calc(50% - 10px); /* Garante que não ultrapasse a metade do espaço */
   height: 300px;
 }
 

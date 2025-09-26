@@ -4,3 +4,7 @@ imagens.forEach(img => {
     img.style.border = '3px solid #222';
   });
 });
+
+window.addEventListener('load',() => {
+  alert("Bem-vindo!");
+});

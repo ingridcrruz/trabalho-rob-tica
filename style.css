@@ -32,7 +32,7 @@ h2 {
 
 .fotos {
   display: flex;
-  gap: 2em;
+  gap: 4em;
   justify-content: center;
   flex-wrap: wrap;
 }
@@ -56,6 +56,6 @@ h2 {
 .rodape {
   background-color: #222;
   color: #ffffff;
-  padding: 2em;
+  padding: 4em;
   margin: 0;
 }

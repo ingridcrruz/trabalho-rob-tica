@@ -57,6 +57,5 @@ h2 {
   background-color: #222;
   color: #ffffff;
   padding: 20px;
-  margin-left: 1000em;
-  margin-right: 1000em;
+  margin: 0;
 }

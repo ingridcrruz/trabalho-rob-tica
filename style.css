@@ -45,7 +45,7 @@ h2 {
   flex: 1 1 calc(50% - 10px); /* Faz as imagens ocuparem metade do espaço, subtraindo o gap */
   margin-bottom: 10px; /* Opcional: adiciona um espaço entre as linhas */
   max-width: calc(50% - 10px); /* Garante que não ultrapasse a metade do espaço */
-  height: auto;
+  height: 300px;
 }
 
 .fotos img:hover {

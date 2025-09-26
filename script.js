@@ -5,6 +5,6 @@ window.addEventListener('load',() => {
 const imagens = document.querySelectorAll('.fotos img');
 imagens.forEach(img => {
   img.addEventListener('click', () => {
-    img.style.border = '3px solid #f1e324ff';
+    img.style.border = '3px solid #247df1ff';
   });
 });

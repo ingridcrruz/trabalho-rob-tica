@@ -31,10 +31,11 @@ h2 {
 }
 
 .fotos {
-  display: none;
+  display: flex;
   gap: 15px;
   justify-content: center;
   flex-wrap: wrap;
+  size: 200px;
 }
 
 .fotos img {

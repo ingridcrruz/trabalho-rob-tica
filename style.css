@@ -35,11 +35,11 @@ h2 {
   gap: 15px;
   justify-content: center;
   flex-wrap: wrap;
-  size: 200px;
 }
 
 .fotos img {
   width: 333px;
+  height: 270px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   transition: transform 0.3s;

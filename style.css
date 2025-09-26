@@ -31,7 +31,7 @@ h2 {
 }
 
 .fotos {
-  display: flex;
+  display: none;
   gap: 15px;
   justify-content: center;
   flex-wrap: wrap;

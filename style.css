@@ -47,3 +47,7 @@ h2 {
 .fotos img:hover {
   transform: scale(1.05);
 }
+
+.lista {
+  line-height: 2.0;
+}

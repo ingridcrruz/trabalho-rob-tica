@@ -38,8 +38,8 @@ h2 {
 }
 
 .fotos img {
-  width: 30%;
-  height: 30%;
+  width: 400px;
+  height: 300px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   transition: transform 0.3s;
